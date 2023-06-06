@@ -9,7 +9,7 @@ Hi everyone! My name is Ivan. I am currently looking for a job as a QA Engineer.
 
 ## <p style="text-align: center;">Сontacts</p>
 
-|[<img src="imag/phone.png" width="25"/>](imag/phone.png) | [<img src="imag/mail.png" width="20"/>](imag/mail.png)|[<img src="imag/location.png" width="20"/>](imag/location.png) |
+|[<img src="imag/phone.png" width="25"/>](imag/phone.png) | [<img src="imag/mail.png" width="25"/>](imag/mail.png)|[<img src="imag/location.png" width="25"/>](imag/location.png) |
 |:-:|:-:|:-:|
 | +7 (707) 777-00-77| kashubaim@gmail.com| [160023, Shymkent, Kazakhstan](https://www.google.com/maps/place/%D0%A8%D1%8B%D0%BC%D0%BA%D0%B5%D0%BD%D1%82/@42.3418204,69.5898056,12z/data=!3m1!4b1!4m6!3m5!1s0x38a8f256546681bb:0xa167b582e75b369b!8m2!3d42.3416847!4d69.590101!16zL20vMDc1ZGg5?entry=ttu)|
 |+7 (931) 001-55-39|[Kashuba Ivan](https://www.linkedin.com/in/kashubaim/)| |
