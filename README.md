@@ -1,7 +1,9 @@
 ***
 ## <p style="text-align: center;">About me</p>
 
-## <p style="text-align: center;">[<img src="imag/photo.png" width="300"/>](imag/photo.png#center) Hi everyone! My name is Ivan. I am currently looking for a job as a QA Engineer. I live in Shymkent, Kazakhstan. Ready to consider vacancies around the world. Relocation is possible (full-time, remote, hybrid).</p>  
+## <p style="text-align: center;">[<img src="imag/photo.png" width="300"/>](imag/photo.png#center)</p> 
+
+Hi everyone! My name is Ivan. I am currently looking for a job as a QA Engineer. I live in Shymkent, Kazakhstan. Ready to consider vacancies around the world. Relocation is possible (full-time, remote, hybrid). 
 <br> <br>
 
 
